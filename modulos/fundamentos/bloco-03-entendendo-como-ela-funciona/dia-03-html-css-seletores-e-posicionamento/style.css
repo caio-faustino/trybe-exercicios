@@ -1,0 +1,44 @@
+
+
+
+h1 , h2, h4 {
+    color: #3A5A40;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+}
+
+h3 {
+    color: #3A5A40;
+}
+
+p   {
+    /* color: #A3B18A ; */
+}
+
+ul {
+    /* color: #A3B18A; */
+}
+
+#section1 {
+    text-align: center;
+   
+}
+
+#section1-1 {
+    background-image: url(./images/perfil-serio.JPG);
+    background-size: cover;
+}
+
+#section1content {
+    text-align: left;
+    display: inline-block;
+    max-width: 60%;
+}
+
+.button {
+    background-color: #588157;
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 4px;
+}

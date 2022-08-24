@@ -1,0 +1,1 @@
+inicio do exercicio do bloco 3 dia 3

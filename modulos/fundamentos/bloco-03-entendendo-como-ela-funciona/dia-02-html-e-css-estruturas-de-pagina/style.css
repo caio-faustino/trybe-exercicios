@@ -1,0 +1,33 @@
+
+
+
+h1 , h2, h4 {
+    color: #3A5A40;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+}
+
+h3 {
+    color: #3A5A40;
+}
+
+p   {
+    /* color: #A3B18A ; */
+}
+
+ul {
+    /* color: #A3B18A; */
+}
+
+#section1 {
+    text-align: center;
+    padding: 60px;
+}
+
+.button {
+    background-color: #588157;
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 4px;
+}
