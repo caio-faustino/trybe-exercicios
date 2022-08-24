@@ -1,0 +1,33 @@
+[Trybe] Thayná Guimarães
+  11h42
+Bom dia, Tribo A!!! :trybe_logoanimada:
+Bora começar nosso segundo projeto? :meow_code:  Vamos com tuudo! :trybe_foguete:
+:calendário: Agenda do dia 24/08/2022
+Dia 4.5 - Projeto Playground functions
+[*] 13h00 às 13h50 Papo com Especialista | Zoom
+Momento para bater um papo sobre trajetória profissional e o dia a dia da Pessoa Estudante.
+14h00 às 14h40 Explicação do Projeto | Zoom
+Nesse momento o time fará a explicação do projeto Playground functions
+14h40 às 16h00 Projeto Playground functions
+:github: Leitura atenta e detalhada do Readme
+[*] 16h00 às 17h00 Mentoria Técnica :mãos_para_cima::tom-de-pele-3: | Zoom | Slido
+:losango_azul_pequeno:Salas por requisitos
+17h00 às 18h00 Projeto Playground functions
+Momento de dedicação individual
+[*] 18h00 às 19h30 Mentoria Técnica :mãos_para_cima::tom-de-pele-3: | Zoom | Slido
+:losango_azul_pequeno:Salas por requisitos
+19h30 às 19h40 Preenchimento do forms diário :estrela_brilhante:
+Fechamento assíncrono :cadeado_com_chave:
+:cadeado_com_chave: Turma, com base nos feedbacks recebidos de vocês e de estudantes de outras turmas e com o objetivo de mantermos o foco no projeto, não teremos fechamento hoje e evitaremos ao máximo termos esse momento em dias de projeto!
+Prazos de Projetos
+Entregas regulares - 80% dos requisitos obrigatórios para não entrar em recuperação
+:anotações: Projeto Lessons Learned: até hoje, dia 24/08 (quarta) às 14h.
+:roda_gigante: Projeto Playground Functions: até dia 31/08 (quarta) às 14h.
+Entregas em recuperação - 90% dos requisitos totais para não mudar de turma
+:anotações: Projeto Lessons Learned: até dia 13/09 (terça) às 14h.
+AVISOS E ALINHAMENTOS
+:cronômetro: Quer um lembrete dos nossos momentos síncronos? Se liga nessa ferramenta aqui! É só copiar e colar a agenda no campo indicado que você receberá lembretes dos momentos! :sonic:
+:virtual-meeting: Mantenha a sua câmera ligada sempre que possível;
+:mulher_virando_a_mão::tom-de-pele-4: Os momentos opcionais estão sinalizados com [*];
+Quem viu, reage com :meow_code:
+@canal

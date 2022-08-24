@@ -1,0 +1,43 @@
+[Trybe] Thayná Guimarães
+  12h09
+Bom dia, Tribo A!! :trybe_logoanimada:
+Vamos com tudo para o primeiro dia do nosso 3º bloco! :sonic:
+:calendário: Agenda do dia 11/08/2022
+Dia 3.1 - HTML & CSS - Estruturas de página
+[*] 13h00 às 13h50 - Mentoria Técnica :mãos_para_cima::tom-de-pele-3: | Zoom | Slido
+:github: Dúvidas sobre Portifólio de Exercícios
+Se ficou alguma dúvida sobre como organizar seu portfólio de exercícios, vem cá! :sonic:
+14h00 às 14h55 Momento Inicial :megafone2: | Zoom
+Explicação do Bloco 3 + Momento Soft Skills
+14h15 às 14h55 Momento Soft Skills :lâmpada:
+1ª parte - Aprender a aprender | Síncrono
+:seta_para_direita: Esse momento acontecerá no Zoom com as duas tribos juntas.
+2ª Parte - Gestão do tempo | Assíncrono
+:seta_para_direita: Nesse momento iremos estudar de forma assíncrona na nossa plataforma Course  e iremos realizar uma atividade proposta em thread no canal.
+14h55 às 16h20 Conteúdo do dia :livros:
+Nesse momento iremos estudar de forma assíncrona na nossa plataforma.
+16h20 às 18h00 Aula ao vivo :bandeira_quadriculada: com 
+@[Trybe] Caique Coelho
+ | Zoom | Slido
+Bora voltar para o Zoom para nossa aula ao vivo!
+18h00 às 19h30 Exercícios do dia :computador:
+De volta ao course para os exercícios do dia.
+[*] 18h40 às 19h30 Mentorias Técnicas :mãos_para_cima::tom-de-pele-3: | Zoom | Slido
+       :github: Dúvidas de Git/Github e Portfólio de Exercícios
+Se ficou alguma dúvida sobre os comando git, SSH, GitHub ou ainda não sabe como organizar seu portfólio de exercícios, vem cá :trybe_foguete:
+       :anotações: Exercícios do dia 3.1 (Portfólio Web)
+Se ficou alguma dúvida sobre os exercícios de hoje, vem cá! :sonic:
+19h30 às 19h40 Preenchimento do forms diário :estrela_brilhante:
+19h40 às 20h00 Momento Soft Skills sobre Comunicação Assertiva :cabeça_falando: | Zoom
+Dobradinha de Soft Skills hoje! Nesse momento o 
+@Bruno Gonçalves de Oliveira
+ irá propor um DESAFIO  falando sobre Comunicação Assertiva.
+AVISOS E ALINHAMENTOS
+:despertador: Seja pontual e sempre considere o horário de Brasília;
+:virtual-meeting: Mantenha a sua câmera ligada sempre que possível;
+:pino:  A agenda fica pinada no canal. Para acessá-la de forma fácil é só clicar em “itens fixados”, no canto superior esquerdo do Slack, logo abaixo do nome do canal;
+:mulher_virando_a_mão::tom-de-pele-4: Os momentos opcionais estão sinalizados com [*];
+:anotações: O preenchimento do forms é feito de forma assíncrona, antes do fechamento.
+Boraaaa com tudo!!!
+Quem leu até o final reage com :sonic:
+@canal 

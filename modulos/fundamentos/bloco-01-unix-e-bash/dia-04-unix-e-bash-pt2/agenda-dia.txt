@@ -1,0 +1,36 @@
+Bom diaaaa, Tribo :a:! :sol_com_cara: :pig-happy-jumping:
+Já viu o vídeo sobre Orientações do Slack? Se ainda não, espia aqui :olhos:
+Vamos com tudo pro nosso segundo dia de conteúdo! :trybe_foguete:
+:calendário: Agenda do dia 05/08/2022
+Dia 1.2 - Unix & Bash - Parte 2
+[*] 13h00 às 13h50 Academia de Lógica :cérebro: | Zoom | Slido
+     :cabeça_explodindo:  Racha cuca
+[*] 13h00 às 13h50 Plantão de dúvidas: Instituto VQV e Google :google: :trybe_vqvanimado: | Zoom
+Mais informações nessa thread
+14h00 às 14h50 Momento Soft Skills Intertribo :silhuetas: | Zoom
+Por que se desenvolver em Soft Skills?
+14h50 às 16h20 Conteúdo do dia :livros:
+Nesse momento iremos estudar de forma assíncrona na nossa plataforma
+16h20 às 18h00 Aula ao vivo :bandeira_quadriculada: com o 
+@[Trybe] Caique Coelho
+ | Zoom | Slido
+Bora voltar para o Zoom para nossa aula ao vivo!
+18h00 às 19h30 Exercícios :computador:
+De volta ao course para os exercícios do dia
+[*] 18h40 às 19h30 - Mentorias Técnicas :mãos_para_cima::tom-de-pele-3: | Zoom | Slido
+   :anotações: Exercícios do dia 1.2 - Parte I e II
+   :anotações: Exercícios do dia 1.2 - Parte III e IV
+19h30 às 19h40 [Assíncrono] Preenchimento do Forms Diário :estrela_brilhante:
+Nos contem o que foi bom no dia e como podemos melhorar através desse link :carinha_nerd:
+19h40 às 20h00 Fechamento :cadeado_com_chave:  | Zoom
+Boas práticas para nos comunicarmos no Slack e no Zoom :zoom: :slack:
+AVISOS E ALINHAMENTOS
+:zoom: Para acessar a sala é só clicar na palavra "Zoom" na agenda. Lembre-se de fazer login no Zoom com o mesmo e-mail de acesso ao course;
+:despertador: Seja pontual e sempre considere o horário de Brasília;
+:virtual-meeting: Mantenha a sua câmera ligada sempre que possível;
+:pino:  A agenda fica pinada no canal. Para acessá-la de forma fácil é só clicar em "itens fixados", no canto superior esquerdo do Slack, logo abaixo do nome do canal;
+:mulher_virando_a_mão::tom-de-pele-4: Os momentos opcionais estão sinalizados com [*];
+:anotações: O preenchimento do forms é feito de forma assíncrona, antes do fechamento.
+Vamos com tudo!
+Quem leu até o final reage com :foguete:
+@canal  (editado)

@@ -1,0 +1,43 @@
+Barbara Braga
+  11h35
+Bom diaaaa, Tribo :a: :trybe_logoanimada: :happy-flower:
+Vamos com tudo começar o nosso segundo bloco! :trybe_fogueteanimado:
+Já viu o vídeo da @Djodjo? Não? Corre aqui então! :sonic:
+:calendário: Agenda do dia 08/08/2022
+Dia 2.1 - Git & GitHub - O que é e para que serve?
+[*] 13h00 às 13h50 Mentorias Técnicas :mãos_para_cima::tom-de-pele-3: | Zoom | Slido
+       :anotações: Exercícios do dia anterior
+14h00 às 15h00 Esquenta| Zoom
+        :quadro: Mural de Afinidades
+:mario: Dinâmica
+       :anotações: Explicação do Bloco 2
+      :sonic: Vem interagir e conhecer o novo bloco! :trybe_fogueteanimado:
+15h00 às 16h20 Conteúdo do dia :livros:
+Nesse momento iremos estudar de forma assíncrona na nossa plataforma
+16h20 às 18h10 Aula ao vivo :bandeira_quadriculada: com  
+@[Trybe] Caique Coelho
+  | Zoom | Slido
+Bora voltar para o Zoom para nossa aula ao vivo!
+18h10 às 19h30 Exercícios do dia :computador:
+De volta ao course para os exercícios do dia!
+[*] 18h40 às 19h30 Mentorias Técnicas :mãos_para_cima::tom-de-pele-3: | Zoom |  Slido
+       :chave: Dúvidas chave SSH
+Tá com dificuldade pra configurar ou instalar o github? Vem cá que a gente te ajuda!
+:github: Dúvida de instalação de GIT/GITHUB
+Se ficou alguma dúvida sobre Git e GitHub, cola aqui :sonic:
+19h30 às 19h40 [Assíncrono] Preenchimento do Forms Diário :estrela_brilhante:
+Nos contem o que foi bom no dia e como podemos melhorar através desse link :carinha_nerd:
+19h40 às 20h00 Fechamento :cadeado_com_chave: | Zoom
+Explicação dos 1:1s + Kahoot sobre alinhamentos gerais
+O que são os 1:1's? Bora animar essa segunda com um Kahoot :pensativo:
+AVISOS E ALINHAMENTOS
+:livros: Aproveite a Sala de Estudos nos momentos extra Trybe > Link do Zoom da Sala aqui
+:zoom: Para acessar a sala é só clicar na palavra "Zoom" na agenda. Lembre-se de fazer login no Zoom com o mesmo e-mail de acesso ao course;
+:despertador: Seja pontual e sempre considere o horário de Brasília;
+:virtual-meeting: Mantenha a sua câmera ligada sempre que possível;
+:pino:  A agenda fica pinada no canal. Para acessá-la de forma fácil é só clicar em "itens fixados", no canto superior esquerdo do Slack, logo abaixo do nome do canal;
+:mulher_virando_a_mão::tom-de-pele-4: Os momentos opcionais estão sinalizados com [*];
+:anotações: O preenchimento do forms é feito de forma assíncrona, antes do fechamento.
+Boraaaa!!! :sonic:
+Quem leu até o final reage com :óculos_escuros:
+@canal

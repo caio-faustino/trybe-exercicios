@@ -1,0 +1,36 @@
+[Trybe] Thayná Guimarães
+  11h48
+Fala, minha Tribo! :trybe_logoanimada:
+Como está a animação para o primeiro dia de Projeto? :olhos: Bora com tuuudo :sonic:
+:calendário: Agenda do dia 17/08/2022
+Dia 3.5 - Projeto Lessons Learned
+[*] 13h00 às 13h50 Papo com Especialista | Zoom
+Momento para bater um papo sobre trajetória profissional e o dia a dia da Pessoa Estudante.
+14h00 às 15h00 Explicação do Projeto | Zoom
+Nesse momento o time fará a explicação do projeto Lessons Learned
+[*] 15h00 às 16h00 Projeto Lessons Learned: Momento de dedicação individual
+        :café:  Intervalo do time de instrução
+       :pepo-dance: Querem trocar uma ideia no horário do cafezinho? Bora na sala de estudos
+[*] 16h00 às 17h00 Mentoria Técnica :mãos_para_cima::tom-de-pele-3: | Zoom | Slido
+     :github: Salas por requisitos
+[*] 16h00 às 17h00 Mentoria Técnica intertribo :mãos_para_cima::tom-de-pele-3: | Zoom | Slido
+     :github: Setup do projeto: git, github e npm
+[*] 17h00 às 18h00 Projeto Lessons Learned: Momento de dedicação individual
+        :café:  Intervalo do time de instrução
+       :pepo-dance: Querem trocar uma ideia no horário do cafezinho? Bora na sala de estudos
+[*] 18h00 às 19h30 Mentoria Técnica :mãos_para_cima::tom-de-pele-3: | Zoom | Slido
+     :github: Salas por requisitos
+19h30 às 19h40 Preenchimento do forms diário :estrela_brilhante:
+19h40 às 20h00 Fechamento :cadeado_com_chave: | Zoom
+Apresentação do time de Adm. Fin :carinha_nerd:
+Prazos de Projetos
+Entregas regulares - 80% dos requisitos obrigatórios para não entrar em recuperação
+:anotações: Projeto Lessons Learned: até dia 24/08 (quarta) às 14h.
+AVISOS E ALINHAMENTOS
+:despertador: Seja pontual e sempre considere o horário de Brasília;
+:virtual-meeting: Mantenha a sua câmera ligada sempre que possível;
+:pino:  A agenda fica pinada no canal. Para acessá-la de forma fácil é só clicar em “itens fixados”, no canto superior esquerdo do Slack, logo abaixo do nome do canal;
+:mulher_virando_a_mão::tom-de-pele-4: Os momentos opcionais estão sinalizados com [*];
+:anotações: O preenchimento do forms é feito de forma assíncrona.
+Quem leu reage com :githubparrot:
+@canal
