@@ -11,12 +11,20 @@ h3 {
     color: #3A5A40;
 }
 
+div {
+    text-align: center;
+}
+
 p   {
     /* color: #A3B18A ; */
+    width: 100%;
+    height: 100px;
+    overflow: auto;
 }
 
 ul {
-    /* color: #A3B18A; */
+    list-style: none;
+    text-align: center;
 }
 
 #section1 {
@@ -25,8 +33,7 @@ ul {
 }
 
 #section1-1 {
-    background-image: url(./images/perfil-serio.JPG);
-    background-size: cover;
+
 }
 
 #section1content {
@@ -41,4 +48,12 @@ ul {
     text-decoration: none;
     padding: 15px 30px;
     border-radius: 4px;
+}
+
+.perfil-serio {
+    float: inline-start;
+}
+
+footer {
+    text-align: center;
 }
