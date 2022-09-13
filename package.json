@@ -1,0 +1,26 @@
+{
+  "name": "trybe-exercicios",
+  "version": "1.0.0",
+  "description": "Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Caio E. Faustino](https://www.linkedin.com/in/caio-faustino17/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caio-faustino/trybe-exercicios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caio-faustino/trybe-exercicios/issues"
+  },
+  "homepage": "https://github.com/caio-faustino/trybe-exercicios#readme",
+  "devDependencies": {
+    "eslint": "^8.23.1",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.2.5",
+    "eslint-plugin-promise": "^6.0.1"
+  }
+}
