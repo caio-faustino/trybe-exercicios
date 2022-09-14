@@ -84,3 +84,79 @@ function displayHolidays() {
 }
 
 displayHolidays();
+
+// Exercicio 04
+
+function createFridayButton(buttonName) {
+	let buttonContainer = document.querySelector('.buttons-container');
+	let newButton = document.createElement('button');
+	let newButtonID = 'btn-friday';
+
+	newButton.innerHTML = buttonName;
+	newButton.id = newButtonID;
+	buttonContainer.appendChild(newButton); //adiciona o botão como filho do container de botões
+}
+
+createFridayButton('Sexta-feira');
+
+// Exercicio 05
+
+function displayFridays(fridaysArray) {
+	let getFridayButton = document.querySelector('#btn-friday');
+	let fridays = document.getElementsByClassName('friday');
+	let newFridayText = 'SEXTOU o/';
+
+	getFridayButton.addEventListener('click', function () {
+		for (let index = 0; index < fridays.length; index += 1) {
+			if (fridays[index].innerHTML !== newFridayText) {
+				fridays[index].innerHTML = newFridayText;
+				//caso o texto não tenha sido substituído, ao clicar no botão ele será substituido pelo novo texto;
+			} else {
+				fridays[index].innerHTML = fridaysArray[index];
+				//caso o texto já tenha sido substituído, ao clicar no botão ele volta ao texto padrão.
+			}
+		}
+	});
+}
+
+let decemberFridays = [4, 11, 18, 25];
+displayFridays(decemberFridays);
+
+// Exercicio 06
+
+function dayMouseOver() {
+	let days = document.querySelector('#days');
+	days.addEventListener('mouseover', function (event) {
+		event.target.style.fontSize = '30px';
+		event.target.style.fontWeight = '600'; // Ele pega o evento alvo e altera o estilo de fontWeight para 600
+	});
+}
+
+function dayMouseOut() {
+	let days = document.querySelector('#days');
+	days.addEventListener('mouseout', function (event) {
+		event.target.style.fontSize = '20px';
+		event.target.style.fontWeight = '200'; // Ele pega o evento alvo e altera o estilo de fontWeight para 200
+	});
+}
+
+dayMouseOver();
+dayMouseOut();
+
+// Exercicio 07
+
+
+
+// Exercicio 08
+
+
+
+// Exercicio 09
+
+
+
+// Exercicio 10
+
+
+
+// Exercicio 11
