@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/caio-faustino/trybe-exercicios/issues"
   },
-  "homepage": "https://github.com/caio-faustino/trybe-exercicios#readme"
+  "homepage": "https://github.com/caio-faustino/trybe-exercicios#readme",
+  "devDependencies": {
+    "eslint": "^8.23.1"
+  }
 }
