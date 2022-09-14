@@ -145,15 +145,45 @@ dayMouseOut();
 
 // Exercicio 07
 
+function newTaskSpan(task) {
+	let tasksContainer = document.querySelector('.my-tasks');
+	let taskName = document.createElement('span');
 
+	taskName.innerHTML = task;
+	tasksContainer.appendChild(taskName); // Anexando a task como filha de taskContainer
+}
+
+newTaskSpan('projeto');
 
 // Exercicio 08
 
+function newTaskDiv(color) {
 
+	let tasksContainer = document.querySelector('.my-tasks');
+	let newTask = document.createElement('div');
+
+	newTask.className = 'task';
+	newTask.style.backgroundColor = color;
+	tasksContainer.appendChild(newTask); // Adiciona newTask como filho de tasksContainer
+}
+
+newTaskDiv('green');
 
 // Exercicio 09
 
+function setTaskClass() {
+	let selectedTask = document.getElementsByClassName('task selected');
+	let myTasks = document.querySelector('.task');
+	myTasks.addEventListener('click', function (event) {
+		if (selectedTask.length === 0) {
+			event.target.className = 'task selected';
+		} else {
+			event.target.className = 'task';
+		}
+	});
+}
 
+setTaskClass();
 
 // Exercicio 10
 
