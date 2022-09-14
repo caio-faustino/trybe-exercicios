@@ -67,12 +67,12 @@ createHolidayButton("Feriados");
 // Exercicio 03
 
 function displayHolidays() {
-	let getHolidayButton = document.querySelector('#btn-holiday');
-	let getHolidays = document.querySelectorAll('.holiday')
-	let backgroundColor = 'rgb(238,238,238)';
-	let setNewColor = 'white';
+	let getHolidayButton = document.querySelector("#btn-holiday");
+	let getHolidays = document.querySelectorAll(".holiday");
+	let backgroundColor = "rgb(238,238,238)";
+	let setNewColor = "white";
 
-	getHolidayButton.addEventListener('click', function () {
+	getHolidayButton.addEventListener("click", function () {
 		for (let index = 0; index < getHolidays.length; index += 1) {
 			if (getHolidays[index].style.backgroundColor === setNewColor) {
 				getHolidays[index].style.backgroundColor = backgroundColor;
@@ -88,25 +88,25 @@ displayHolidays();
 // Exercicio 04
 
 function createFridayButton(buttonName) {
-	let buttonContainer = document.querySelector('.buttons-container');
-	let newButton = document.createElement('button');
-	let newButtonID = 'btn-friday';
+	let buttonContainer = document.querySelector(".buttons-container");
+	let newButton = document.createElement("button");
+	let newButtonID = "btn-friday";
 
 	newButton.innerHTML = buttonName;
 	newButton.id = newButtonID;
 	buttonContainer.appendChild(newButton); //adiciona o botão como filho do container de botões
 }
 
-createFridayButton('Sexta-feira');
+createFridayButton("Sexta-feira");
 
 // Exercicio 05
 
 function displayFridays(fridaysArray) {
-	let getFridayButton = document.querySelector('#btn-friday');
-	let fridays = document.getElementsByClassName('friday');
-	let newFridayText = 'SEXTOU o/';
+	let getFridayButton = document.querySelector("#btn-friday");
+	let fridays = document.getElementsByClassName("friday");
+	let newFridayText = "SEXTOU o/";
 
-	getFridayButton.addEventListener('click', function () {
+	getFridayButton.addEventListener("click", function () {
 		for (let index = 0; index < fridays.length; index += 1) {
 			if (fridays[index].innerHTML !== newFridayText) {
 				fridays[index].innerHTML = newFridayText;
@@ -125,18 +125,18 @@ displayFridays(decemberFridays);
 // Exercicio 06
 
 function dayMouseOver() {
-	let days = document.querySelector('#days');
-	days.addEventListener('mouseover', function (event) {
-		event.target.style.fontSize = '30px';
-		event.target.style.fontWeight = '600'; // Ele pega o evento alvo e altera o estilo de fontWeight para 600
+	let days = document.querySelector("#days");
+	days.addEventListener("mouseover", function (event) {
+		event.target.style.fontSize = "30px";
+		event.target.style.fontWeight = "600"; // Ele pega o evento alvo e altera o estilo de fontWeight para 600
 	});
 }
 
 function dayMouseOut() {
-	let days = document.querySelector('#days');
-	days.addEventListener('mouseout', function (event) {
-		event.target.style.fontSize = '20px';
-		event.target.style.fontWeight = '200'; // Ele pega o evento alvo e altera o estilo de fontWeight para 200
+	let days = document.querySelector("#days");
+	days.addEventListener("mouseout", function (event) {
+		event.target.style.fontSize = "20px";
+		event.target.style.fontWeight = "200"; // Ele pega o evento alvo e altera o estilo de fontWeight para 200
 	});
 }
 
@@ -146,39 +146,39 @@ dayMouseOut();
 // Exercicio 07
 
 function newTaskSpan(task) {
-	let tasksContainer = document.querySelector('.my-tasks');
-	let taskName = document.createElement('span');
+	let tasksContainer = document.querySelector(".my-tasks");
+	let taskName = document.createElement("span");
 
 	taskName.innerHTML = task;
 	tasksContainer.appendChild(taskName); // Anexando a task como filha de taskContainer
 }
 
-newTaskSpan('projeto');
+newTaskSpan("projeto");
 
 // Exercicio 08
 
 function newTaskDiv(color) {
 
-	let tasksContainer = document.querySelector('.my-tasks');
-	let newTask = document.createElement('div');
+	let tasksContainer = document.querySelector(".my-tasks");
+	let newTask = document.createElement("div");
 
-	newTask.className = 'task';
+	newTask.className = "task";
 	newTask.style.backgroundColor = color;
 	tasksContainer.appendChild(newTask); // Adiciona newTask como filho de tasksContainer
 }
 
-newTaskDiv('green');
+newTaskDiv("green");
 
 // Exercicio 09
 
 function setTaskClass() {
-	let selectedTask = document.getElementsByClassName('task selected');
-	let myTasks = document.querySelector('.task');
-	myTasks.addEventListener('click', function (event) {
+	let selectedTask = document.getElementsByClassName("task selected");
+	let myTasks = document.querySelector(".task");
+	myTasks.addEventListener("click", function (event) {
 		if (selectedTask.length === 0) {
-			event.target.className = 'task selected';
+			event.target.className = "task selected";
 		} else {
-			event.target.className = 'task';
+			event.target.className = "task";
 		}
 	});
 }
@@ -187,6 +187,53 @@ setTaskClass();
 
 // Exercicio 10
 
+function setDayColor() {
+	let selectedTask = document.getElementsByClassName("task selected");
+	let days = document.querySelector("#days");
+	let taskDiv = document.querySelector(".task");
+	let taskColor = taskDiv.style.backgroundColor;
 
+	days.addEventListener("click", function (event) {
+		let eventTargetColor = event.target.style.color;
+		if (selectedTask.length > 0 && eventTargetColor !== taskColor) {
+			let color = selectedTask[0].style.backgroundColor; // Pega a cor de fundo do primeiro elemento salvo na variável "selectedTask" e salva na variável "color"
+			event.target.style.color = color; // atribui a cor salva na variável "color" ao evento alvo
+		} else if (eventTargetColor === taskColor) {
+			event.target.style.color = "rgb(119,119,119)";  // Altera a cor de fundo do evento alvo para "rgb(119, 119, 119)"
+		}
+	});
+}
+
+setDayColor();
 
 // Exercicio 11
+
+function addNewTask() {
+	let getInputField = document.querySelector("#task-input");
+	let addInputButton = document.querySelector("#btn-add");
+	let getTaskList = document.querySelector(".task-list");
+
+	addInputButton.addEventListener("click", function () {
+		if (getInputField.value.length > 0) {
+			let newLi = document.createElement("li");
+			newLi.innerText = getInputField.value;
+
+			getTaskList.appendChild(newLi);
+			getInputField.value = "";
+		} else {
+			alert("Error: Digite ao menos 1 caractere.");
+		}
+	});
+
+	getInputField.addEventListener("keyup", function (event) {
+		if (event.key === "Enter" && getInputField.value.length > 0) {
+			let newLi = document.createElement("li");
+			newLi.innerText = getInputField.value;
+
+			getTaskList.appendChild(newLi);
+			getInputField.value = "";
+		}
+	});
+}
+
+addNewTask();
