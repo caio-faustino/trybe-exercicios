@@ -1,0 +1,21 @@
+ Agenda do dia 06/09/2022
+Dia 6.1 - HTML & CSS - Forms
+[*] 13h00 às 13h50 Mentoria Técnica | Zoom | Slido
+     :arte: Projeto Pixels Art
+14h00 às 15h00 Momento Inicial | Zoom
+:losango_azul_pequeno: 14h00 às 14h50 Momento Soft Skills: Empatia
+:losango_azul_pequeno: 14h50 às 15h00 Explicação do bloco 6
+15h00 às 16h20 Conteúdo do dia :computador:
+HTML & CSS - Forms - bora estudar de forma assíncrona na nossa plataforma.
+16h20 às 18h00 - Aula ao vivo com 
+@[Trybe] Caique Coelho
+ | Zoom | Slido
+Bora voltar para o Zoom para nossa aula ao vivo!
+18h00 às 18h40 Exercícios :computador:
+Hora de fazer os exercícios do dia. De volta ao Course
+[*] 18h40 às 19h30 Mentoria Técnica :mãos_para_cima::tom-de-pele-4: | Zoom | Slido
+:losango_azul_pequeno: 1. Exercícios do dia 6.1
+:losango_azul_pequeno: 2. Não existe dúvida boba!
+19h30 às 19h40 Preenchimento do Forms diário :estrela_brilhante:
+19h40 às 20h00 Fechamento :cadeado_com_chave: | Zoom
+Feedbacks importantes! :trybe:
