@@ -55,8 +55,40 @@
       width: 90%;
     }
 
+    .gallery {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin: 10px auto 13px auto;
+      width: 50%;
+    }
+
+    .gallery-card {
+      align-items: center;
+      background-color: rgb(241, 241, 241);
+      border-radius: 15px;
+      box-shadow: 2px 3px rgba(161, 161, 161, 0.5);
+      display: flex;
+      flex-direction: column;
+      height: 220px;
+      justify-content: center;
+      margin: 0 10px 15px 0;
+      width: 180px;
+    }
+
+    h4 {
+      color: #5C687C;
+      margin-bottom: 10px;
+      margin-top: 10px;
+    }
+
     .gallery-img {
       width: 150px;
+    }
+
+    hr {
+      margin-top: 10px;
+      width: 25%;
     }
 
     .social-img {
@@ -78,28 +110,28 @@
   <section class="text-section">
     <p>Take a look at some of the technologies which you will learn in our fundamentals and front-end module!</p>
   </section>
-  <main>
-    <section>
+  <main class="gallery">
+    <section class="gallery-card">
       <h4>HTML</h4>
       <img class="gallery-img" src="./images/html-logo.png" alt="HTML logo" />
     </section>
-    <section>
+    <section class="gallery-card">
       <h4>CSS</h4>
-      <img class="gallery-img css" src="./images/css-logo.png" alt="CSS logo" />
+      <img class="gallery-img" src="./images/css-logo.png" alt="CSS logo" />
     </section>
-    <section>
+    <section class="gallery-card">
       <h4>JAVASCRIPT</h4>
       <img class="gallery-img" src="./images/javaScript-logo.png" alt="JavaScript logo" />
     </section>
-    <section>
+    <section class="gallery-card">
       <h4>REACT</h4>
       <img class="gallery-img" src="./images/react-logo.png" alt="React logo" />
     </section>
-    <section>
+    <section class="gallery-card">
       <h4>RTL</h4>
       <img class="gallery-img" src="./images/rtl-logo.png" alt="React Testing Library logo" />
     </section>
-    <section>
+    <section class="gallery-card">
       <h4>REDUX</h4>
       <img class="gallery-img" src="./images/redux-logo.png" alt="Redux logo" />
     </section>
